@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 583, y: 492}
   m_MaxSize: {x: 12008, y: 14042}
   vertical: 1
-  controlID: 6030
+  controlID: 4208
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -134,7 +134,7 @@ MonoBehaviour:
   m_MinSize: {x: 583, y: 221}
   m_MaxSize: {x: 12008, y: 4021}
   vertical: 0
-  controlID: 6031
+  controlID: 4209
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -267,7 +267,7 @@ MonoBehaviour:
     x: 306
     y: 19
     width: 951
-    height: 439
+    height: 437
   m_PersistentViewDataDictionary: {fileID: 0}
   m_MaximizeOnPlay: 1
   m_Gizmos: 0
@@ -350,9 +350,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 00f2ffff
-    m_LastClickedID: -3584
-    m_ExpandedIDs: fcf1ffff00f2ffffd2fbffff00000000
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: e4fbffffe6fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -469,14 +469,14 @@ MonoBehaviour:
     height: 437
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 521.0885199711762
+  lastFramingTime: 297.70475314943457
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.83846426, y: 0.5786095, z: 0.20064352}
+    m_Target: {x: -1.2308228, y: -0.20959924, z: -2.8769715}
     speed: 2
-    m_Value: {x: 0.83846426, y: 0.5786095, z: 0.20064352}
+    m_Value: {x: -1.2308228, y: -0.20959924, z: -2.8769715}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -496,21 +496,21 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
     yGrid:
-      m_Target: 1
+      m_Target: 0
       speed: 2
-      m_Value: 1
+      m_Value: 0
     zGrid:
       m_Target: 0
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.015535849, y: 0.9837131, z: -0.10578815, w: -0.14448541}
+    m_Target: {x: -0.04686319, y: 0.9453207, z: -0.15715002, w: -0.28191587}
     speed: 2
-    m_Value: {x: -0.015535847, y: 0.98371315, z: -0.10578816, w: -0.14448543}
+    m_Value: {x: -0.04686319, y: 0.9453207, z: -0.15715002, w: -0.28191587}
   m_Size:
-    m_Target: 6.8075185
+    m_Target: 6.7486806
     speed: 2
-    m_Value: 6.8075185
+    m_Value: 6.7486806
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -675,20 +675,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/UFPS/Base/Content/Prefabs/Pickups/WeaponsHD
+    - Assets/UFPS/Base/Content/Prefabs/Pickups/WeaponsHD/Ammo
   m_ViewMode: 1
   m_StartGridSize: 89
   m_LastFolders:
-  - Assets/UFPS/Base/Content/Prefabs/Pickups/WeaponsHD
+  - Assets/UFPS/Base/Content/Prefabs/Pickups/WeaponsHD/Ammo
   m_LastFoldersGridSize: 89
   m_LastProjectPath: D:\Bestanden\Aurora\AURORA
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 151}
-    m_SelectedIDs: e80c0000
-    m_LastClickedID: 3304
-    m_ExpandedIDs: 00000000fa0b00004e0c00006a0d0000ca0f00002e100000221100009412000098130000b21400004e160000c21b0000241c0000681d0000f2210000c024000082290000c22900002e4f0000
+    scrollPos: {x: 0, y: 423}
+    m_SelectedIDs: 6e170000
+    m_LastClickedID: 5998
+    m_ExpandedIDs: 00000000fa0b00004e0c0000e80c00006a0d0000780d0000a80d0000ca0f00002e100000221100009412000098130000ba14000056160000aa160000ca1b00002c1c0000701d0000f41e00000022000068230000d224000094290000d6290000665a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -716,7 +716,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000fa0b00004e0c00006a0d0000ca0f00002e100000221100009412000098130000b21400004e160000c21b0000241c0000681d0000f2210000c024000082290000c22900002e4f0000
+    m_ExpandedIDs: 00000000fa0b00004e0c0000e80c00006a0d0000780d0000a80d0000ca0f00002e100000221100009412000098130000ba14000056160000aa160000ca1b00002c1c0000701d0000f41e00000022000068230000d224000094290000d6290000665a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1236,4 +1236,4 @@ MonoBehaviour:
   m_AnimEditor: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: -3584
+  m_LastSelectedObjectID: -1054
